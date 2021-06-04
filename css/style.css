@@ -1,0 +1,53 @@
+style.css
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    background-color:lightgrey;
+    font: size 80px;
+    font-style: italic;
+    font-weight: 400;
+    color: black;
+}
+h2{
+    background-color:red;
+    color: black;
+    font-size: 50px;
+    font-style: initial;
+    border: 10px solid purple;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+#p1{
+    color:cadetblue;
+    font-size: 50px;
+    text-align: left;
+}
+.p1{
+    background-color: coral;
+    font-style: initial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    
+}
+table,th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: 30px;
+    padding: 30px;
+    border-spacing: 5px;
+
+}
+th{
+    background-color: lightgrey;
+    font-size: 40px;
+}
+td{
+    text-align: center;
+    font-size: 30px;
+}
